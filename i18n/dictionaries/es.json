@@ -1,0 +1,174 @@
+{
+  "navbar": {
+    "home": "INICIO",
+    "about": "SOBRE NOSOTROS",
+    "courses": "CURSOS",
+    "globalCampus": "CAMPUS GLOBAL",
+    "blog": "BLOG",
+    "contact": "CONTACTO"
+  },
+  "home": {
+    "hero": {
+      "title": "Somos la mejor universidad del mundo",
+      "subtitle": "En Marvella, nos dedicamos a fomentar la excelencia académica, la innovación y la inclusión.",
+      "cta": "EXPLORAR AHORA"
+    },
+    "facilities": {
+      "title": "Nuestras Instalaciones",
+      "library": {
+        "title": "Biblioteca",
+        "description": "Bienvenido a nuestra biblioteca, tu puerta de entrada al conocimiento y la exploración sin límites. Con una vasta colección de recursos que abarcan diversas disciplinas, nuestra biblioteca es un refugio para mentes curiosas y ávidos aprendices."
+      },
+      "football": {
+        "title": "Fútbol",
+        "description": "Experimenta la emoción del juego con nuestro programa de fútbol en la Universidad Marvella. Como piedra angular del espíritu y la camaradería del campus, el fútbol une a nuestra comunidad para animar a nuestro equipo con orgullo y pasión."
+      },
+      "food": {
+        "title": "Comida Sabrosa y Saludable",
+        "description": "Saborea los sabores de la comunidad y la conveniencia en nuestra cafetería, donde las deliciosas comidas se encuentran con un ambiente vibrante. Nuestra cafetería no es solo un lugar para comer, es un centro de conexión social y exploración culinaria."
+      }
+    },
+    "globalCampus": {
+      "title": "Nuestro Campus Global",
+      "cta": "Explorar Campus Global",
+      "features": {
+        "crossCultural": {
+          "title": "Intercambio Intercultural",
+          "description": "Sumérgete en diversas perspectivas a través de programas de estudio globales y prácticas internacionales."
+        },
+        "multilingual": {
+          "title": "Apoyo Multilingüe",
+          "description": "Accede a clases de idiomas y sesiones de orientación cultural, con asesores que hablan varios idiomas."
+        },
+        "research": {
+          "title": "Colaboraciones de Investigación Global",
+          "description": "Colabora en proyectos innovadores con académicos de todo el mundo, impulsando la innovación en tu campo."
+        },
+        "leadership": {
+          "title": "Desarrollo de Liderazgo",
+          "description": "Desarrolla habilidades de comunicación intercultural y adaptabilidad a través de programas de liderazgo global."
+        },
+        "network": {
+          "title": "Red de Estudiantes Internacionales",
+          "description": "Establece conexiones con compañeros a nivel mundial a través de eventos culturales y colaboraciones académicas."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Lo Que Dicen Nuestros Estudiantes",
+      "testimonial1": "¡La cafetería de la Universidad Marvella es mi lugar favorito entre clases! La variedad de opciones de comida siempre mantiene las cosas interesantes, y me encanta poder ponerme al día con amigos durante una deliciosa comida. Además, ¡el ambiente es tan acogedor que se siente como un hogar lejos de casa!",
+      "testimonial2": "Estoy constantemente impresionado por la calidad de la comida en nuestra cafetería. No solo es sabrosa, sino que también hay muchas opciones saludables que me ayudan a mantener mis objetivos de bienestar. Ya sea que tenga ganas de algo ligero o anhele una comida abundante, sé que siempre puedo encontrar algo satisfactorio aquí. ¡Felicitaciones al personal de la cafetería por ofrecer constantemente comidas tan excelentes!"
+    },
+    "cta": {
+      "title": "Únete a Nuestra Comunidad Global",
+      "subtitle": "Desde Cualquier Parte Del Mundo",
+      "button": "CONTÁCTANOS"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Sobre Nosotros"
+    },
+    "main": {
+      "title": "Somos la mejor universidad del mundo",
+      "description": "En Marvella, nos dedicamos a fomentar la excelencia académica, la innovación y la inclusión.",
+      "cta": "EXPLORAR AHORA"
+    },
+    "content": {
+      "title": "Sobre Nosotros",
+      "p1": "En Marvella, nos dedicamos a fomentar la excelencia académica, la innovación y la inclusión.",
+      "p2": "Con una rica historia de nutrir la curiosidad intelectual y fomentar habilidades de pensamiento crítico, preparamos a nuestros estudiantes para enfrentar los desafíos del mañana con confianza.",
+      "p3": "Nuestro distinguido profesorado, instalaciones de investigación de vanguardia y comunidad vibrante crean un entorno donde los estudiantes pueden prosperar académica, personal y profesionalmente.",
+      "p4": "Comprometidos con servir a la sociedad a través de la educación, la investigación y el compromiso comunitario, nos esforzamos por empoderar a las personas para que alcancen su máximo potencial y tengan un impacto positivo en el mundo.",
+      "p5": "Únete a nosotros en Marvella y sé parte de una comunidad dinámica dedicada al conocimiento, el descubrimiento y la transformación."
+    }
+  },
+  "globalCampus": {
+    "hero": {
+      "title": "Nuestro Campus Global",
+      "subtitle": "Experimenta una educación sin fronteras a través de nuestros programas internacionales y red global"
+    },
+    "features": {
+      "title": "Características del Campus Global",
+      "description": "En la Universidad Marvella, estamos comprometidos a proporcionar una experiencia educativa verdaderamente global que prepare a los estudiantes para el éxito en un mundo interconectado."
+    },
+    "cta": {
+      "title": "Únete a Nuestra Comunidad Global",
+      "subtitle": "Experimenta una educación que trasciende fronteras y te prepara para el éxito en un contexto global",
+      "button": "CONTÁCTANOS"
+    },
+    "learnMore": "Saber Más"
+  },
+  "courses": {
+    "hero": {
+      "title": "Nuestros Cursos"
+    },
+    "types": {
+      "title": "Cursos Que Ofrecemos",
+      "description": "Descubra nuestra amplia gama de programas académicos diseñados para satisfacer diversas necesidades educativas y aspiraciones profesionales. Desde certificados básicos hasta estudios avanzados de postgrado, la Universidad Marvella ofrece educación de calidad en todos los niveles."
+    },
+    "programs": {
+      "title": "Programas Disponibles",
+      "description": "Descubre nuestra amplia gama de programas académicos",
+      "learnMore": "Saber Más"
+    },
+    "cta": {
+      "title": "Inscríbete En Nuestros Diversos Cursos En Línea",
+      "subtitle": "Desde Cualquier Parte Del Mundo",
+      "button": "CONTÁCTANOS"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Nuestro Blog"
+    },
+    "comment": {
+      "title": "Deja un comentario",
+      "name": "Ingresa tu nombre",
+      "email": "Ingresa tu correo electrónico",
+      "comment": "Tu Comentario",
+      "button": "PUBLICAR COMENTARIO"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contáctanos"
+    },
+    "info": {
+      "building": {
+        "title": "Edificio Principal",
+        "description": "Londres, Inglaterra"
+      },
+      "phone": {
+        "title": "+37061912346",
+        "description": "Lunes a Sábado 10 Am a 6:30 Pm"
+      },
+      "email": {
+        "title": "dennisopoola@gmail.com",
+        "description": "Envíanos tu consulta por correo electrónico"
+      },
+      "linkedin": {
+        "title": "linkedin.com/in/do24",
+        "description": "Conéctate con nosotros en LinkedIn"
+      }
+    },
+    "form": {
+      "name": "Ingresa tu nombre",
+      "email": "Ingresa tu dirección de correo electrónico",
+      "subject": "Ingresa tu asunto",
+      "message": "Mensaje",
+      "button": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "copyright": "© Todos los Derechos Reservados"
+  },
+  "common": {
+    "learnMore": "Saber Más",
+    "backTo": "Volver a",
+    "contactUs": "Contáctanos",
+    "readyToJoin": "¿Listo para Unirte",
+    "applyNow": "Aplicar Ahora"
+  }
+}
+

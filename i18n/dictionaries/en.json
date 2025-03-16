@@ -1,0 +1,174 @@
+{
+  "navbar": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "courses": "COURSES",
+    "globalCampus": "GLOBAL CAMPUS",
+    "blog": "BLOG",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "hero": {
+      "title": "We are the world's best university",
+      "subtitle": "At Marvella's, we are dedicated to fostering academic excellence, innovation, and inclusivity.",
+      "cta": "EXPLORE NOW"
+    },
+    "facilities": {
+      "title": "Our Facilities",
+      "library": {
+        "title": "Library",
+        "description": "Welcome to our library, your gateway to boundless knowledge and exploration. With a vast collection of resources spanning across disciplines, our library is a haven for curious minds and avid learners."
+      },
+      "football": {
+        "title": "Football",
+        "description": "Experience the thrill of the game with our football program at Marvella University. As a cornerstone of campus spirit and camaraderie, football brings our community together to cheer on our team with pride and passion."
+      },
+      "food": {
+        "title": "Tasty and Healthy Food",
+        "description": "Savor the flavors of community and convenience at our cafeteria, where delicious meals meet vibrant atmosphere. Our cafeteria isn't just a place to eat—it's a hub of social connection and culinary exploration."
+      }
+    },
+    "globalCampus": {
+      "title": "Our Global campus",
+      "cta": "Explore Global Campus",
+      "features": {
+        "crossCultural": {
+          "title": "Cross-Cultural Exchange",
+          "description": "Immerse yourself in diverse perspectives through global study programs and international internships."
+        },
+        "multilingual": {
+          "title": "Multilingual Support",
+          "description": "Access language classes and cultural orientation sessions, with advisors fluent in multiple languages."
+        },
+        "research": {
+          "title": "Global Research Collaborations",
+          "description": "Collaborate on groundbreaking projects with scholars worldwide, driving innovation in your field."
+        },
+        "leadership": {
+          "title": "Leadership Development",
+          "description": "Develop cross-cultural communication and adaptability skills through global leadership programs."
+        },
+        "network": {
+          "title": "International Student Network",
+          "description": "Build connections with peers globally through cultural events and academic collaborations."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "What Our Student Says",
+      "testimonial1": "The cafeteria at Marvella University is my go-to spot between classes! The variety of food options always keeps things interesting, and I love being able to catch up with friends over a delicious meal. Plus, the atmosphere is so inviting—it feels like a home away from home!",
+      "testimonial2": "I'm constantly impressed by the quality of food at our cafeteria. Not only is it tasty, but there are also plenty of healthy choices that help me stick to my wellness goals. Whether I'm in the mood for something light or craving a hearty meal, I know I can always find something satisfying here. Kudos to the cafeteria staff for consistently delivering such great meals!"
+    },
+    "cta": {
+      "title": "Join Our Global Community",
+      "subtitle": "Anywhere From The World",
+      "button": "CONTACT US"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us"
+    },
+    "main": {
+      "title": "We are the world's best university",
+      "description": "At Marvella's, we are dedicated to fostering academic excellence, innovation, and inclusivity.",
+      "cta": "EXPLORE NOW"
+    },
+    "content": {
+      "title": "About Us",
+      "p1": "At Marvella's, we are dedicated to fostering academic excellence, innovation, and inclusivity.",
+      "p2": "With a rich history of nurturing intellectual curiosity and fostering critical thinking skills, we prepare our students to tackle the challenges of tomorrow with confidence.",
+      "p3": "Our distinguished faculty, cutting-edge research facilities, and vibrant community create an environment where students can thrive academically, personally, and professionally.",
+      "p4": "Committed to serving society through education, research, and community engagement, we strive to empower individuals to reach their full potential and make a positive impact on the world.",
+      "p5": "Join us at Marvella and be part of a dynamic community dedicated to knowledge, discovery, and transformation."
+    }
+  },
+  "globalCampus": {
+    "hero": {
+      "title": "Our Global Campus",
+      "subtitle": "Experience education without borders through our international programs and global network"
+    },
+    "features": {
+      "title": "Global Campus Features",
+      "description": "At Marvella University, we're committed to providing a truly global educational experience that prepares students for success in an interconnected world."
+    },
+    "cta": {
+      "title": "Join Our Global Community",
+      "subtitle": "Experience education that transcends borders and prepares you for success in a global context",
+      "button": "CONTACT US"
+    },
+    "learnMore": "Learn More"
+  },
+  "courses": {
+    "hero": {
+      "title": "Our Courses"
+    },
+    "types": {
+      "title": "Courses We Offer",
+      "description": "Discover our comprehensive range of academic programs designed to meet diverse educational needs and career aspirations. From foundational certificates to advanced postgraduate studies, Marvella University provides quality education at every level."
+    },
+    "programs": {
+      "title": "Available Programs",
+      "description": "Discover our comprehensive range of academic programs",
+      "learnMore": "Learn More"
+    },
+    "cta": {
+      "title": "Enroll For Our Various Online Courses",
+      "subtitle": "Anywhere From The World",
+      "button": "CONTACT US"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Our Blog"
+    },
+    "comment": {
+      "title": "Leave a comment",
+      "name": "Enter Name",
+      "email": "Enter email",
+      "comment": "Your Comment",
+      "button": "POST COMMENT"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us"
+    },
+    "info": {
+      "building": {
+        "title": "Main Building",
+        "description": "London, England"
+      },
+      "phone": {
+        "title": "+37061912346",
+        "description": "Monday to Saturday 10 Am to 6:30 Pm"
+      },
+      "email": {
+        "title": "dennisopoola@gmail.com",
+        "description": "Email us your query"
+      },
+      "linkedin": {
+        "title": "linkedin.com/in/do24",
+        "description": "Connect with us on LinkedIn"
+      }
+    },
+    "form": {
+      "name": "Enter your name",
+      "email": "Enter email address",
+      "subject": "Enter your subject",
+      "message": "Message",
+      "button": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© All Rights Reserved"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "backTo": "Back to",
+    "contactUs": "Contact Us",
+    "readyToJoin": "Ready to Join",
+    "applyNow": "Apply Now"
+  }
+}
+

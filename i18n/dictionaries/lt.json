@@ -1,0 +1,174 @@
+{
+  "navbar": {
+    "home": "PRADŽIA",
+    "about": "APIE MUS",
+    "courses": "KURSAI",
+    "globalCampus": "GLOBALUS KAMPUSAS",
+    "blog": "TINKLARAŠTIS",
+    "contact": "KONTAKTAI"
+  },
+  "home": {
+    "hero": {
+      "title": "Mes esame geriausia pasaulio universitetas",
+      "subtitle": "Marvella universitete mes siekiame akademinės kompetencijos, inovacijų ir įtraukties.",
+      "cta": "TYRINĖTI DABAR"
+    },
+    "facilities": {
+      "title": "Mūsų Įrenginiai",
+      "library": {
+        "title": "Biblioteka",
+        "description": "Sveiki atvykę į mūsų biblioteką, jūsų vartus į beribį žinojimą ir tyrinėjimą. Su plačia kolekcija išteklių, apimančių įvairias disciplinas, mūsų biblioteka yra prieglobstis smalsiam protui ir uoliems besimokantiesiems."
+      },
+      "football": {
+        "title": "Futbolas",
+        "description": "Patirkite žaidimo jaudulį su mūsų futbolo programa Marvella universitete. Kaip kampuso dvasios ir draugystės kertinis akmuo, futbolas suburia mūsų bendruomenę palaikyti mūsų komandą su pasididžiavimu ir aistra."
+      },
+      "food": {
+        "title": "Skanus ir Sveikas Maistas",
+        "description": "Mėgaukitės bendruomenės skoniais ir patogumu mūsų valgykloje, kur skanūs patiekalai susitinka su gyvybinga atmosfera. Mūsų valgykla yra ne tik vieta valgyti – tai socialinio ryšio ir kulinarinio tyrinėjimo centras."
+      }
+    },
+    "globalCampus": {
+      "title": "Mūsų Globalus Kampusas",
+      "cta": "Tyrinėti Globalų Kampusą",
+      "features": {
+        "crossCultural": {
+          "title": "Tarpkultūrinis Mainai",
+          "description": "Panirkite į įvairias perspektyvas per globalias studijų programas ir tarptautines stažuotes."
+        },
+        "multilingual": {
+          "title": "Daugiakalbė Parama",
+          "description": "Prieiga prie kalbų kursų ir kultūrinės orientacijos sesijų su patarėjais, kalbančiais keliomis kalbomis."
+        },
+        "research": {
+          "title": "Globalūs Tyrimų Bendradarbiavimas",
+          "description": "Bendradarbiaukite novatoriškuose projektuose su mokslininkais visame pasaulyje, skatindami inovacijas savo srityje."
+        },
+        "leadership": {
+          "title": "Lyderystės Vystymas",
+          "description": "Ugdykite tarpkultūrinės komunikacijos ir prisitaikymo įgūdžius per globalias lyderystės programas."
+        },
+        "network": {
+          "title": "Tarptautinis Studentų Tinklas",
+          "description": "Užmegzkite ryšius su bendraamžiais visame pasaulyje per kultūrinius renginius ir akademinį bendradarbiavimą."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Ką Sako Mūsų Studentai",
+      "testimonial1": "Marvella universiteto valgykla yra mano mėgstamiausia vieta tarp paskaitų! Maisto pasirinkimų įvairovė visada išlaiko dalykus įdomius, ir man patinka galimybė pasivyti draugus prie skanaus maisto. Be to, atmosfera tokia svetinga – jaučiasi kaip namai toli nuo namų!",
+      "testimonial2": "Mane nuolat stebina maisto kokybė mūsų valgykloje. Jis ne tik skanus, bet ir yra daug sveikų pasirinkimų, kurie padeda man laikytis savo gerovės tikslų. Ar aš noriu ko nors lengvo, ar trokštu sotaus patiekalo, žinau, kad visada galiu rasti čia kažką patenkinančio. Pagyrimas valgyklos personalui už nuolatinį tokių puikių patiekalų tiekimą!"
+    },
+    "cta": {
+      "title": "Prisijunkite Prie Mūsų Globalios Bendruomenės",
+      "subtitle": "Iš Bet Kurios Pasaulio Vietos",
+      "button": "SUSISIEKITE SU MUMIS"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Apie Mus"
+    },
+    "main": {
+      "title": "Mes esame geriausia pasaulio universitetas",
+      "description": "Marvella universitete mes siekiame akademinės kompetencijos, inovacijų ir įtraukties.",
+      "cta": "TYRINĖTI DABAR"
+    },
+    "content": {
+      "title": "Apie Mus",
+      "p1": "Marvella universitete mes siekiame akademinės kompetencijos, inovacijų ir įtraukties.",
+      "p2": "Su turtinga intelektualaus smalsumo ugdymo ir kritinio mąstymo įgūdžių skatinimo istorija, mes ruošiame mūsų studentus spręsti rytojaus iššūkius su pasitikėjimu.",
+      "p3": "Mūsų išskirtiniai fakultetai, pažangios tyrimų įrangos ir gyvybinga bendruomenė sukuria aplinką, kurioje studentai gali klestėti akademiškai, asmeniškai ir profesionaliai.",
+      "p4": "Įsipareigoję tarnauti visuomenei per švietimą, tyrimus ir bendruomenės įsitraukimą, mes siekiame įgalinti asmenis pasiekti savo visą potencialą ir daryti teigiamą poveikį pasauliui.",
+      "p5": "Prisijunkite prie mūsų Marvella universitete ir tapkite dinamiškos bendruomenės, atsidavusios žinioms, atradimams ir transformacijai, dalimi."
+    }
+  },
+  "globalCampus": {
+    "hero": {
+      "title": "Mūsų Globalus Kampusas",
+      "subtitle": "Patirkite švietimą be sienų per mūsų tarptautines programas ir globalų tinklą"
+    },
+    "features": {
+      "title": "Globalaus Kampuso Ypatybės",
+      "description": "Marvella universitete mes įsipareigojame teikti tikrai globalią švietimo patirtį, kuri paruošia studentus sėkmei tarpusavyje susijusiame pasaulyje."
+    },
+    "cta": {
+      "title": "Prisijunkite Prie Mūsų Globalios Bendruomenės",
+      "subtitle": "Patirkite švietimą, kuris peržengia sienas ir paruošia jus sėkmei globaliame kontekste",
+      "button": "SUSISIEKITE SU MUMIS"
+    },
+    "learnMore": "Sužinoti Daugiau"
+  },
+  "courses": {
+    "hero": {
+      "title": "Mūsų Kursai"
+    },
+    "types": {
+      "title": "Kursai, Kuriuos Siūlome",
+      "description": "Atraskite mūsų išsamų akademinių programų asortimentą, sukurtą patenkinti įvairius švietimo poreikius ir karjeros siekius. Nuo pagrindinių sertifikatų iki pažangių podiplominių studijų, Marvella universitetas teikia kokybišką išsilavinimą visais lygmenimis."
+    },
+    "programs": {
+      "title": "Prieinamos Programos",
+      "description": "Atraskite mūsų išsamų akademinių programų asortimentą",
+      "learnMore": "Sužinoti Daugiau"
+    },
+    "cta": {
+      "title": "Užsiregistruokite Į Mūsų Įvairius Internetinius Kursus",
+      "subtitle": "Iš Bet Kurios Pasaulio Vietos",
+      "button": "SUSISIEKITE SU MUMIS"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Mūsų Tinklaraštis"
+    },
+    "comment": {
+      "title": "Palikite komentarą",
+      "name": "Įveskite vardą",
+      "email": "Įveskite el. paštą",
+      "comment": "Jūsų Komentaras",
+      "button": "PASKELBTI KOMENTARĄ"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Susisiekite Su Mumis"
+    },
+    "info": {
+      "building": {
+        "title": "Pagrindinis Pastatas",
+        "description": "Londonas, Anglija"
+      },
+      "phone": {
+        "title": "+37061912346",
+        "description": "Pirmadienis-Šeštadienis 10:00 - 18:30"
+      },
+      "email": {
+        "title": "dennisopoola@gmail.com",
+        "description": "Siųskite mums savo užklausą el. paštu"
+      },
+      "linkedin": {
+        "title": "linkedin.com/in/do24",
+        "description": "Susisiekite su mumis LinkedIn"
+      }
+    },
+    "form": {
+      "name": "Įveskite savo vardą",
+      "email": "Įveskite savo el. pašto adresą",
+      "subject": "Įveskite savo temą",
+      "message": "Žinutė",
+      "button": "Siųsti Žinutę"
+    }
+  },
+  "footer": {
+    "copyright": "© Visos Teisės Saugomos"
+  },
+  "common": {
+    "learnMore": "Sužinoti Daugiau",
+    "backTo": "Grįžti į",
+    "contactUs": "Susisiekite Su Mumis",
+    "readyToJoin": "Pasiruošę Prisijungti",
+    "applyNow": "Registruotis Dabar"
+  }
+}
+

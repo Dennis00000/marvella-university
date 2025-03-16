@@ -1,0 +1,5 @@
+{
+  "extends": "next/core-web-security",
+  "plugins": ["@next/next"],
+  "rules": {}
+} 

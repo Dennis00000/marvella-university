@@ -1,0 +1,174 @@
+{
+  "navbar": {
+    "home": "ACCUEIL",
+    "about": "À PROPOS",
+    "courses": "COURS",
+    "globalCampus": "CAMPUS MONDIAL",
+    "blog": "BLOG",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "hero": {
+      "title": "Nous sommes la meilleure université du monde",
+      "subtitle": "À Marvella, nous nous consacrons à favoriser l'excellence académique, l'innovation et l'inclusivité.",
+      "cta": "EXPLORER MAINTENANT"
+    },
+    "facilities": {
+      "title": "Nos Installations",
+      "library": {
+        "title": "Bibliothèque",
+        "description": "Bienvenue dans notre bibliothèque, votre passerelle vers la connaissance et l'exploration sans limites. Avec une vaste collection de ressources couvrant diverses disciplines, notre bibliothèque est un havre pour les esprits curieux et les apprenants avides."
+      },
+      "football": {
+        "title": "Football",
+        "description": "Vivez l'excitation du jeu avec notre programme de football à l'Université Marvella. En tant que pierre angulaire de l'esprit et de la camaraderie du campus, le football rassemble notre communauté pour encourager notre équipe avec fierté et passion."
+      },
+      "food": {
+        "title": "Nourriture Savoureuse et Saine",
+        "description": "Savourez les saveurs de la communauté et de la commodité dans notre cafétéria, où les repas délicieux rencontrent une atmosphère vibrante. Notre cafétéria n'est pas seulement un endroit pour manger, c'est un centre de connexion sociale et d'exploration culinaire."
+      }
+    },
+    "globalCampus": {
+      "title": "Notre Campus Mondial",
+      "cta": "Explorer le Campus Mondial",
+      "features": {
+        "crossCultural": {
+          "title": "Échange Interculturel",
+          "description": "Immergez-vous dans diverses perspectives à travers des programmes d'études mondiaux et des stages internationaux."
+        },
+        "multilingual": {
+          "title": "Support Multilingue",
+          "description": "Accédez à des cours de langues et des sessions d'orientation culturelle, avec des conseillers parlant plusieurs langues."
+        },
+        "research": {
+          "title": "Collaborations de Recherche Mondiale",
+          "description": "Collaborez sur des projets novateurs avec des chercheurs du monde entier, stimulant l'innovation dans votre domaine."
+        },
+        "leadership": {
+          "title": "Développement du Leadership",
+          "description": "Développez des compétences en communication interculturelle et en adaptabilité grâce à des programmes de leadership mondial."
+        },
+        "network": {
+          "title": "Réseau d'Étudiants Internationaux",
+          "description": "Établissez des connexions avec des pairs à l'échelle mondiale à travers des événements culturels et des collaborations académiques."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Ce Que Disent Nos Étudiants",
+      "testimonial1": "La cafétéria de l'Université Marvella est mon endroit préféré entre les cours ! La variété des options alimentaires maintient toujours les choses intéressantes, et j'adore pouvoir rattraper mes amis autour d'un délicieux repas. De plus, l'atmosphère est si accueillante qu'on se sent comme à la maison !",
+      "testimonial2": "Je suis constamment impressionné par la qualité de la nourriture dans notre cafétéria. Non seulement c'est savoureux, mais il y a aussi beaucoup de choix sains qui m'aident à respecter mes objectifs de bien-être. Que je sois d'humeur pour quelque chose de léger ou que je désire un repas copieux, je sais que je peux toujours trouver quelque chose de satisfaisant ici. Félicitations au personnel de la cafétéria pour fournir constamment d'excellents repas !"
+    },
+    "cta": {
+      "title": "Rejoignez Notre Communauté Mondiale",
+      "subtitle": "De N'importe Où Dans Le Monde",
+      "button": "CONTACTEZ-NOUS"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À Propos de Nous"
+    },
+    "main": {
+      "title": "Nous sommes la meilleure université du monde",
+      "description": "À Marvella, nous nous consacrons à favoriser l'excellence académique, l'innovation et l'inclusivité.",
+      "cta": "EXPLORER MAINTENANT"
+    },
+    "content": {
+      "title": "À Propos de Nous",
+      "p1": "À Marvella, nous nous consacrons à favoriser l'excellence académique, l'innovation et l'inclusivité.",
+      "p2": "Avec une riche histoire de nourrir la curiosité intellectuelle et de favoriser les compétences de pensée critique, nous préparons nos étudiants à relever les défis de demain avec confiance.",
+      "p3": "Notre corps professoral distingué, nos installations de recherche de pointe et notre communauté dynamique créent un environnement où les étudiants peuvent s'épanouir académiquement, personnellement et professionnellement.",
+      "p4": "Engagés à servir la société par l'éducation, la recherche et l'engagement communautaire, nous nous efforçons de donner aux individus les moyens d'atteindre leur plein potentiel et d'avoir un impact positif sur le monde.",
+      "p5": "Rejoignez-nous à Marvella et faites partie d'une communauté dynamique dédiée à la connaissance, à la découverte et à la transformation."
+    }
+  },
+  "globalCampus": {
+    "hero": {
+      "title": "Notre Campus Mondial",
+      "subtitle": "Expérimentez une éducation sans frontières à travers nos programmes internationaux et notre réseau mondial"
+    },
+    "features": {
+      "title": "Caractéristiques du Campus Mondial",
+      "description": "À l'Université Marvella, nous nous engageons à fournir une expérience éducative véritablement mondiale qui prépare les étudiants au succès dans un monde interconnecté."
+    },
+    "cta": {
+      "title": "Rejoignez Notre Communauté Mondiale",
+      "subtitle": "Expérimentez une éducation qui transcende les frontières et vous prépare au succès dans un contexte mondial",
+      "button": "CONTACTEZ-NOUS"
+    },
+    "learnMore": "En Savoir Plus"
+  },
+  "courses": {
+    "hero": {
+      "title": "Nos Cours"
+    },
+    "types": {
+      "title": "Cours Que Nous Offrons",
+      "description": "Découvrez notre gamme complète de programmes académiques conçus pour répondre à diverses besoins éducatifs et aspirations professionnelles. Des certificats de base aux études supérieures avancées, l'Université Marvella offre une éducation de qualité à tous les niveaux."
+    },
+    "programs": {
+      "title": "Programmes Disponibles",
+      "description": "Découvrez notre gamme complète de programmes académiques",
+      "learnMore": "En Savoir Plus"
+    },
+    "cta": {
+      "title": "Inscrivez-Vous À Nos Divers Cours En Ligne",
+      "subtitle": "De N'importe Où Dans Le Monde",
+      "button": "CONTACTEZ-NOUS"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Notre Blog"
+    },
+    "comment": {
+      "title": "Laissez un commentaire",
+      "name": "Entrez votre nom",
+      "email": "Entrez votre email",
+      "comment": "Votre Commentaire",
+      "button": "POSTER UN COMMENTAIRE"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-Nous"
+    },
+    "info": {
+      "building": {
+        "title": "Bâtiment Principal",
+        "description": "Londres, Angleterre"
+      },
+      "phone": {
+        "title": "+37061912346",
+        "description": "Lundi à Samedi 10h à 18h30"
+      },
+      "email": {
+        "title": "dennisopoola@gmail.com",
+        "description": "Envoyez-nous votre question par email"
+      },
+      "linkedin": {
+        "title": "linkedin.com/in/do24",
+        "description": "Connectez-vous avec nous sur LinkedIn"
+      }
+    },
+    "form": {
+      "name": "Entrez votre nom",
+      "email": "Entrez votre adresse email",
+      "subject": "Entrez votre sujet",
+      "message": "Message",
+      "button": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "copyright": "© Tous Droits Réservés"
+  },
+  "common": {
+    "learnMore": "En Savoir Plus",
+    "backTo": "Retour à",
+    "contactUs": "Contactez-Nous",
+    "readyToJoin": "Prêt à Rejoindre",
+    "applyNow": "Postuler Maintenant"
+  }
+}
+
